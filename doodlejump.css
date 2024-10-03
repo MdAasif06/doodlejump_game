@@ -1,0 +1,11 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+body{
+    text-align: center;
+}
+#board{
+    background-image: url("./images/doodlejumpbg.png");
+    /* background-color: green; */
+}
